@@ -9,7 +9,7 @@ Angular2 Coding Best Free Tool : Visual Studio Code
 
 ## My VSC settings.json
 
-{
+
     // Controls the font family.
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
 
@@ -60,5 +60,3 @@ Angular2 Coding Best Free Tool : Visual Studio Code
     "gitProjectManager.storeRepositoriesBetweenSessions": true,
     "gitProjectManager.openInNewWindow": false,
     "gitProjectManager.checkRemoteOrigin": false
-}
-
